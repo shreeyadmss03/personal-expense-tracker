@@ -1,0 +1,4 @@
+body { background: #f3f4fb; }
+.hero { background: linear-gradient(135deg, #4f46e5, #7c3aed); color: #fff; border-radius: 16px; }
+.summary-card { border: 0; border-radius: 14px; box-shadow: 0 4px 14px rgba(0,0,0,.08); }
+.card { border-radius: 14px; }

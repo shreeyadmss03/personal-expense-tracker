@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Monthly Salary",
+      "amount": 30000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Groceries",
+      "amount": 2500,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-10-03"
+    },
+    {
+      "id": 3,
+      "title": "Bus Pass",
+      "amount": 800,
+      "type": "expense",
+      "category": "Travel",
+      "date": "2026-10-05"
+    },
+    {
+      "id": 4,
+      "title": "Online Course",
+      "amount": 1500,
+      "type": "expense",
+      "category": "Education",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Books",
+      "amount": 120,
+      "type": "expense",
+      "category": "Education",
+      "date": "2026-10-25",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food",
+      "description": "Meals, groceries and snacks"
+    },
+    {
+      "id": 2,
+      "name": "Travel",
+      "description": "Transport and trips"
+    },
+    {
+      "id": 3,
+      "name": "Shopping",
+      "description": "Clothes and personal items"
+    },
+    {
+      "id": 4,
+      "name": "Education",
+      "description": "Courses, books and fees"
+    },
+    {
+      "id": 5,
+      "name": "Salary",
+      "description": "Regular income"
+    },
+    {
+      "id": 6,
+      "name": "Other",
+      "description": "Anything else"
+    }
+  ]
+}
